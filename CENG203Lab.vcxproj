@@ -140,11 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Labs\Week02.cpp" />
+    <ClCompile Include="Labs\Week03.cpp" />
     <ClCompile Include="LinkedList\LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Labs\Labs.h" />
+    <ClInclude Include="LinkedList\CircularList.h" />
+    <ClInclude Include="LinkedList\DoublyLinkedList.h" />
     <ClInclude Include="LinkedList\LinkedList.h" />
     <ClInclude Include="LinkedList\Node.h" />
   </ItemGroup>

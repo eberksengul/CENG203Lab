@@ -12,6 +12,7 @@ int main() {
 
 		switch (choice) {
 		case 2: runWeek02(); break;
+		case 3: runWeek03(); break;
 		case 0: cout << "Bye" << endl; break;
 		default: cout << "Invalid choice!" << endl; break;
 		}
